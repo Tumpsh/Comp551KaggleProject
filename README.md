@@ -3,8 +3,7 @@ Quick, Draw! dataset from google, with added noise, classification amongst 30 ca
 
 For each iPython Notebook, it is sufficient to run each cell sequentially in
 order to replicate our results, as detailed in our report on Gradescope. Each
-notebook is independent. The data is included in the .zip file, so it does not
-need to be added in any way.
+notebook is independent. The data is available if contacted. 
 
 # Files:
 
